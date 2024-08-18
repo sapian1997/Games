@@ -1,0 +1,1 @@
+In this game, your mission is to guide a turtle safely across the road. The challenge? The road is filled with continuously moving cars that appear at random. If you successfully navigate the turtle to the other side without getting hit, you earn a point. It's all about timing and quick reflexes—get the turtle to the other end, and viola, you score!
